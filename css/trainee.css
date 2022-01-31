@@ -1,0 +1,13 @@
+.content-box {
+    padding: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: #2B2C2F;
+    border-radius: 1rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.content-box h2 {
+    font-size: 2rem;
+    color: #22aaa1;
+}
